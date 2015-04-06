@@ -4,7 +4,7 @@
 ### Projected Content
 - A Headshot Photo
 - Full Name/Pronunciation & Meaning of Full Name
-- Intro/Short Bio
+- Welcome/Short Bio
 - Research Interests
 - Links to:
   - Email Address
@@ -22,3 +22,13 @@
  - Must work well across devices, browsers
  - Must allow customization
 - A humorous 404 Page, like this: http://rosalind.info/users/morukonur/
+
+### To Do
+- Forward oryoruk.com to oryoruk.github.io, hide URL
+- Forward other associated domains (.net/.info) to oryoruk.github.io, hide URL
+- Forward private blog link, to blogspot blog, hide URL
+- Pick a template
+- Pick a photo
+- Write "Welcome" section
+- Write "Research Interests" section
+- Update CV
