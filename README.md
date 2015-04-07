@@ -16,6 +16,13 @@
     - LinkedIn: www.linkedin.com/in/oryoruk
     - Instagram: www.instagram.com/oryoruk
     - Rosalind: www.rosalind.info/users/oryoruk
+    - Later if I become active:
+      - Bitbucket: www.bitbucket.org/oryoruk
+      - Instructables: www.instructables.com/member/oryoruk
+      - Pinterest: www.pinterest.com/oryoruk
+      - Flickr: www.flickr.com/photos/oryoruk
+      - Vimeo, Quora, Wikipedia, ResearchGate, etc.
+
 
 ### Considerations on Design
 - Use a pre-existing HTML5 template
@@ -27,8 +34,9 @@
 - ~~Register domain name~~
 - ~~Register for user accounts in various web services~~
 - Update LinkedIn account
-- Forward oryoruk.com to oryoruk.github.io, hide URL
-- Forward other associated domains (.net/.info) to oryoruk.github.io, hide URL
+- ~~Redirect oryoruk.github.io to oryoruk.com~~
+- Point oryoruk.com to oryoruk.github.io
+- Point other associated domains (.net/.info) to oryoruk.github.io
 - Forward private blog link, to blogspot blog, hide URL
 - Pick a template
 - Pick a photo
