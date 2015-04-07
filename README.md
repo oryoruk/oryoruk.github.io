@@ -40,6 +40,7 @@
 - ~~Redirect other associated domains (.net/.info) to oryoruk.com~~
 - ~~Redirect blog to blog.oryoruk.com~~
 - ~~Redirect diary to diary.oryoruk.com~~
+- Update original URLs of blog and diary (in September old ones will expire)
 - Pick a template
 - Pick a photo
 - Write "Welcome" section
