@@ -35,8 +35,8 @@
 - ~~Register for user accounts in various web services~~
 - Update LinkedIn account
 - ~~Redirect oryoruk.github.io to oryoruk.com~~
-- Point oryoruk.com to oryoruk.github.io
-- Point other associated domains (.net/.info) to oryoruk.github.io
+- ~~Point oryoruk.com to oryoruk.github.io~~
+- ~~Redirect other associated domains (.net/.info) to oryoruk.com~~
 - Forward private blog link, to blogspot blog, hide URL
 - Pick a template
 - Pick a photo
