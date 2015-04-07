@@ -38,6 +38,8 @@
 - ~~Redirect oryoruk.github.io to oryoruk.com~~
 - ~~Point oryoruk.com to oryoruk.github.io~~
 - ~~Redirect other associated domains (.net/.info) to oryoruk.com~~
+- ~~Setup the blog~~
+- ~~Migrate diary to new gmail~~
 - ~~Redirect blog to blog.oryoruk.com~~
 - ~~Redirect diary to diary.oryoruk.com~~
 - Update original URLs of blog and diary (in September old ones will expire)
