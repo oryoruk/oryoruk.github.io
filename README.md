@@ -42,4 +42,14 @@
 - Pick a photo
 - Write "Welcome" section
 - Write "Research Interests" section
-- Update CV
+- Update CV to reflect:
+  - ~~Name~~ 
+  - Graduation, GPA
+  - New school
+  - New research rotation in current employment
+  - New research rotation in Res. Exp.
+  - New conferences
+  - Website
+  - ~~Links to GitHub/Bitbucket~~
+  - Address
+  - ~~New email addresses~~
