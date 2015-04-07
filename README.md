@@ -9,7 +9,8 @@
 - Links to:
   - Email Address
   - CV
-  - Private Blog
+  - Blog
+  - Diary (Private Blog)
   - Accounts at webservices:
     - GitHub: www.github.com/oryoruk
     - Twitter: www.twitter.com/oryoruk
@@ -37,7 +38,8 @@
 - ~~Redirect oryoruk.github.io to oryoruk.com~~
 - ~~Point oryoruk.com to oryoruk.github.io~~
 - ~~Redirect other associated domains (.net/.info) to oryoruk.com~~
-- Forward private blog link, to blogspot blog, hide URL
+- ~~Redirect blog to blog.oryoruk.com~~
+- ~~Redirect diary to diary.oryoruk.com~~
 - Pick a template
 - Pick a photo
 - Write "Welcome" section
