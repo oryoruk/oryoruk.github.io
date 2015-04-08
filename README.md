@@ -43,7 +43,7 @@
   4. Survey options for having a single dynamic page for all content
     - Jeykll on GitHub 
     - WordPress on private hosting (how will I maintain it through the dashbord, is it possible through GitHub?)
-  5. Migrate blog and static page a into the new dynamic one
+  5. Migrate entire blogger blog content and static page into the new dynamic one
 
 #### To Do
 - ~~Register domain name~~
