@@ -10,7 +10,6 @@
   - Email Address
   - CV
   - Blog
-  - Diary (Private Blog)
   - Accounts at webservices:
     - GitHub: www.github.com/oryoruk
     - Twitter: www.twitter.com/oryoruk
@@ -24,14 +23,29 @@
       - Flickr: www.flickr.com/photos/oryoruk
       - Vimeo, Quora, Wikipedia, ResearchGate, etc.
 
+### Notes
+#### Considerations on Design
+- Use a pre-existing HTML5 template for now.
+- Eventually a website, that
+ - Works well across devices, browsers
+ - Allows customization
+ - Highlights code syntax
+ - Displays media: plots, pictures elegantly
+ - Has an RSS feed
+ - Has a humorous 404 Page :) like this: http://rosalind.info/users/morukonur/
 
-### Considerations on Design
-- Use a pre-existing HTML5 template
- - Must work well across devices, browsers
- - Must allow customization
-- A humorous 404 Page, like this: http://rosalind.info/users/morukonur/
+#### Plan
+1. Initially:
+  1. Start posting on Blogger
+  2. Have a static page for now with a link to the dynamic page: blog
+  3. Match the color scheme of the static page template on Blogger template 
+2. Later:
+  4. Survey options for having a single dynamic page
+    - Jeykll on GitHub 
+    - WordPress on private hosting
+  5. Migrate blog and static page a into the new dynamic one
 
-### To Do
+#### To Do
 - ~~Register domain name~~
 - ~~Register for user accounts in various web services~~
 - Update LinkedIn account
@@ -43,7 +57,7 @@
 - ~~Redirect blog to blog.oryoruk.com~~
 - ~~Redirect diary to diary.oryoruk.com~~
 - Update original URLs of blog and diary (in September old ones will expire)
-- Pick a template
+- Pick an HTML5 template
 - Pick a photo
 - Write "Welcome" section
 - Write "Research Interests" section
@@ -58,3 +72,5 @@
   - ~~Links to GitHub/Bitbucket~~
   - Address
   - ~~New email addresses~~
+- Look into options to consolidate blog and static website
+- Migrate existing blog and static website into the new dynamic one
