@@ -197,15 +197,19 @@ footer {
     margin:0;
   }
   
-  header, section, footer {
+  section, footer {
     float:none;
     position:static;
     width:auto;
   }
-  
+
   header {
-    /*padding-right:120px;*/
-    /*padding-right:320px;*/
+    /*added these two lines to display at the center*/
+    /*display:block;*/
+    float:none;
+    position:static;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   section {
@@ -233,10 +237,6 @@ footer {
   
   header {
     padding:0;
-    /*added these two lines to display at the center*/
-    /*display:block;*/
-    margin-left: auto;
-    margin-right: auto;
   }
   
   header ul, header p.view {
