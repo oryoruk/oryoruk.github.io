@@ -233,6 +233,9 @@ footer {
   
   header {
     padding:0;
+    /*added these two lines to display at the center*/
+    margin-left: auto;
+    margin-right: auto;
   }
   
   header ul, header p.view {
