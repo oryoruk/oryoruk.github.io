@@ -234,7 +234,7 @@ footer {
   header {
     padding:0;
     /*added these two lines to display at the center*/
-    display: :block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
   }
