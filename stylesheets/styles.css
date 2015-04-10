@@ -206,10 +206,6 @@ footer {
   header {
     /*padding-right:120px;*/
     /*padding-right:320px;*/
-    /*added these two lines to display at the center*/
-    display: :block;
-    margin-left: auto;
-    margin-right: auto;
   }
   
   section {
@@ -237,6 +233,10 @@ footer {
   
   header {
     padding:0;
+    /*added these two lines to display at the center*/
+    display: :block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   header ul, header p.view {
