@@ -101,7 +101,7 @@ img {
 
 header {
   /*width:270px;*/
-  width:270px;
+  width:190px;
   float:left;
   position:fixed;
 }
@@ -191,6 +191,9 @@ footer {
 }
 
 @media print, screen and (max-width: 960px) {
+  body{
+    padding: 0;
+  }
   
   div.wrapper {
     width:auto;
@@ -204,8 +207,9 @@ footer {
   }
 
   header {
-    /*added these two lines to display at the center*/
-    /*display:block;*/
+    /*added these lines to display at the center*/
+    display:block;
+    padding: 0;
     float:none;
     position:static;
     margin-left: auto;
