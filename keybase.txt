@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/oryoruk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://oryoruk.com
+  * I am oryoruk (https://keybase.io/oryoruk) on keybase.
+  * I have a public key with fingerprint 35E4 7FC6 8093 6023 6263  3ACE 1B2E F1BE 58BC AB0A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101fdf3f1e1675178461b468e667219e58ee7acf4dd119ecd1b3d3f73b80faa87820a",
+            "fingerprint": "35e47fc68093602362633ace1b2ef1be58bcab0a",
+            "host": "keybase.io",
+            "key_id": "1b2ef1be58bcab0a",
+            "kid": "0101fdf3f1e1675178461b468e667219e58ee7acf4dd119ecd1b3d3f73b80faa87820a",
+            "uid": "8f7a5441a407fb51d6868c74b51b6e19",
+            "username": "oryoruk"
+        },
+        "service": {
+            "hostname": "oryoruk.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1457296981,
+    "expire_in": 157680000,
+    "prev": "056df0e067552ba7b0380fcd84c9430ce77634f0d8c3a28c778379debfbe7981",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.51
+Comment: https://keybase.io/crypto
+
+yMIgAnicrVJfSBRBHL4ztbpMjAQfUoqF6iC7dvbf7J6BVA9GFoih0CkcO7uzunre
+nnt7eqJChFiS6ENlGVFED2mXREaa2R+NDFELQUlBKUOiQigNIimUZqUegh6bl5nf
+b77vm+/3Mc83r3O4nFmFSW0T97kF5+jg+YijcLatoJZChlpDeWupcry24YCKw5a/
+XFcpL0UDGmiqxmoAAwHyAIqcABAniFgQIAMkzIsYQ1nROFUFpFRUgFiV1SCLRFqT
+ZRGKDC1TmZSmB0uwGTL1oEVkWR5zUFMEkZZYgWZYgRFYVlYwQAzWACKqSJHRGrHU
+CNsMYg7JYezRDdIjhX/N3j/w/9l3ZE1O1KDMcxyQORpqiAeqIAqiAjlyRAIGkg0M
+YzMoV2CCNswaw4yUU/WZFGlW6Qq2c7UH+RvgUYwKwgyZhmUoRoBclFpWyGvzrJqQ
+DazGyP9bwo/0oEpCJIQqbIZ1I0h5AUEqlm5rAo6HjCRIIsikcDSkm9iv2wgekpDJ
+sp/BVXYyvKBqNKZJKjyDZIholkysqCKnSBxLKxhCgeU0WhUVVmbIkFBkoaRipCEM
+iTxlD1UZNCgvR2zKJUQyrJcEZStiYqr+2UBxvMPpciQmxNmfy+HamPLnyy1/3+Do
+8jSNeJeX8q3eHtf4yd7OU9P32t0jRTPtvoJoUyP/ucfqbm6ZTJ0qoqtmv02N0R87
+mX0tlcf8K1fbbh+tcCXuP3TjzM/a5L2xyVuhOy9mO5ZCF78kLeWsjr3zfWADXMrD
+wezjLWXq/Ny1+alN17OKh62lT4yvId59penNaNn45eqGvh9pGR2nn1zqnvP2Ox+k
++s+93qb1HlgtnDmxuOdI/5Cc17q1KXxw/DATy6xL2vXYfTYgtgSG07bE8l/dTB7J
+aO13ZecOxRqam6PRgUd5uR5oBO6mQ2plYrHx5fu4Bc9OfTr9adeOlbf9vt1a38rE
+Bcf22Pq0hDp3Xk5A+voLVRpFng==
+=kcgI
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/oryoruk
+
+==================================================================
