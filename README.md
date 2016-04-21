@@ -6,8 +6,8 @@
 - Full Name/Pronunciation & Meaning of Full Name
 - Welcome/Short Bio
 - Research Interests
-- Blog
-  - On research & technology topics
+- ~~Blog~~
+  - ~~On research & science in general~~
 - Links to:
   - Email Address
   - CV
@@ -16,19 +16,13 @@
     - Twitter: www.twitter.com/oryoruk
     - LinkedIn: www.linkedin.com/in/oryoruk
     - Instagram: www.instagram.com/oryoruk
-    - Rosalind: www.rosalind.info/users/oryoruk
-    - Later if I become active:
-      - Bitbucket: www.bitbucket.org/oryoruk
-      - Instructables: www.instructables.com/member/oryoruk
-      - Pinterest: www.pinterest.com/oryoruk
-      - Flickr: www.flickr.com/photos/oryoruk
-      - Vimeo, Quora, Wikipedia, ResearchGate, etc.
+    - other ones that I use actively
 
 ### Notes
 #### Considerations on Design
 - Eventually a modern HTML5 website, that
  - Works well across devices, browsers
- - Allows customization
+- If a dynamic blog is added later:
  - Highlights code syntax
  - Displays media: plots, pictures elegantly
  - Has an RSS feed
@@ -60,7 +54,7 @@
 - Pick an HTML5 template
 - Pick a photo
 - Write the "Welcome" section
-- Write the "Research Interests" section
+- Update the "Research Interests" section
 - Update CV to reflect:
   - ~~Name~~ 
   - Graduation, GPA
