@@ -1,0 +1,1 @@
+.icon{transition:all .2s ease-in-out;fill:currentColor;height:1em;width:1em;opacity:var(--icon-opacity,1)}@media (prefers-reduced-motion:reduce),(print){.icon{transition:none!important}}.icon path{fill:currentColor}
